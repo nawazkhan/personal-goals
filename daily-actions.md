@@ -4,3 +4,5 @@
 - [x] Running # health & wellness
 - [x] Audiobook - startup you # intellect
 - [ ] Meditation # health & wellness
+- [ ] Blog update # brand Nawaz
+
