@@ -1,6 +1,6 @@
 # 5/01/21
 
-- [ ] Cooking # health & wellness
-- [ ] Running # health & wellness
-- [ ] Audiobook - startup you # intellect
+- [x] Cooking # health & wellness
+- [x] Running # health & wellness
+- [x] Audiobook - startup you # intellect
 - [ ] Meditation # health & wellness
